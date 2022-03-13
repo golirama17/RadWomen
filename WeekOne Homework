@@ -1,0 +1,25 @@
+public static void primitivesExercise() {
+        //You do this part!
+
+        //1.  Declare three primitives variables, an Integer, a String and a Decimal
+          Integer x;
+          Decimal y;
+          String myString;
+
+        //2.  Assign values to your three new variables
+          x = 5;
+          y = 7.5;
+          myString = 'This is my test String';
+
+        //3.  Print out your variables to the debug log
+        
+		      system.debug(x);
+          system.debug(y);
+          system.debug(myString);
+
+        //4.  Declare an integer variable and assign a value in the same line
+        
+		      Integer i = 7;
+        //5.  Print out your integer to the debug log
+		      system.debug(i);
+    }
